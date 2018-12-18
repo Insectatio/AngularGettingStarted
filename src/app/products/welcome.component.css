@@ -1,0 +1,11 @@
+#title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255); 
+}
+
+#cardhead {
+  background-color: rgb(85, 167, 192);
+  border-radius: 10px;
+}

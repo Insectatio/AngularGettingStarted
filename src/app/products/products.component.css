@@ -1,0 +1,30 @@
+thead {
+    color: #337AB7;
+  }
+#headerone {
+  background-color: rgb(85, 167, 192);
+  border-radius: 10px;
+}
+#headerone > h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; 
+}
+
+#titolohead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255); 
+}
+
+pm-star {
+  color: rgb(255, 217, 0);
+}
+
+#titolocard {
+  background-color: rgb(85, 167, 192);
+  border-radius: 10px;
+}
+

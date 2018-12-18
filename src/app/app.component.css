@@ -1,0 +1,41 @@
+.nav-link {
+    font-size: large;
+  }
+
+  #homeicon {
+    position: relative;
+    top: 4px;
+  }
+
+  #homebutton {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    border-radius: 50px;
+  }
+
+  #prodicon {
+    position: relative;
+    top: 4px;
+  }
+
+  #prodbutton {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50px;
+  }
+
+  #logo {
+    color: rgb(47, 153, 153);
+  }
+
+  #container {
+    border-radius: 50px;
+    padding: 20px; 
+  }
+
+  .navbar-brand img{
+    height: 6rem;
+}
+
+#navbar {
+  background-color: white;
+}
